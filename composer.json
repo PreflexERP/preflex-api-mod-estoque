@@ -1,5 +1,5 @@
 {
-    "name": "mod-estoque",
+    "name": "preflexerp/mod-estoque",
     "description": "Módulo de Estoque do Preflex ERP",
     "type": "library",
     "license": "MIT",
