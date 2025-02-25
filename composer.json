@@ -9,6 +9,15 @@
             "email": "seuemail@example.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "path",
+            "url": "src/Modulos/mod-estoque",
+            "options": {
+                "symlink": true
+            }
+        }
+    ],
     "require": {
         "php": ">=8.0",
         "slim/slim": "^4.0"
